@@ -2,9 +2,8 @@
 
 **Working Environment.**
 
---Programming: C#
-
 --Software/Game Engine: Unity
+--Programming: C#
 
 **Getting Started.**
 
