@@ -1,4 +1,10 @@
-# Deomstaration of The Spatial Characteristics Model in Unity Game Engine.
+# Demonstration of The Spatial Characteristics Model
+
+***Work Environment*
+
+--Programming: C#
+--Software/Game Engine: Unity
+
 In a real-world setting, the smart space would be engineered to access and control all the devices within its scope, to support the mechanics for interfacing with the user (or its proxy—a smartphone), and to rely on specialized algorithms designed to ensure rapid and accurate processing of user requests. In this demonstration, we will assume a more abstract perspective.  We will take for granted that the space and the user can interact with each other, and we will assume the availability of algorithms the space uses to satisfy individual user requests. Our goal is simply to illustrate at an abstract level how requests related to a specific spatial characteristic can be satisfied by the smart space to deliver the required functionality. 
 
 # Experimental Setup.
