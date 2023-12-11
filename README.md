@@ -34,6 +34,11 @@ While the options of heuristics, and search strategies the algorithms might expl
 
 # Temperature.  
 
+https://youtu.be/Iss6uIpqupM
+
+Above is a demonstration of temperature (implemented in Unity Game Engine) to understand how requests regarding temperature can be realized in smart space in terms of the Spatial Characteristic Model-
+
+
 In an indoor space, temperature is mainly controlled by smart temperature devices such as HVAC, heater, cooler, floor heating, air conditioner, etc. By nature, temperature is generally distributed uniformly across a specific area. The user can refer to the desired area as an entire enclosed space such as a living room, or a more limited region such as a small area surrounding a couch. Area can also be identified as multiple rooms connected by open doorways or a region that extends across walls. However, it is impractical to consider a sub-area as a desired location of interest that intersects with the walls.
 
 The choice of temperature devices to satisfy a request can vary depending on multiple factors. If the space is built on one centralized air conditioner, then the choice is simple. However, if the space possesses smart HVAC, then it might be a good choice to exploit it to control temperature for a larger region such as an entire room. 
@@ -44,7 +49,5 @@ Time plays a crucial role in the dynamics of temperature. The thermal transfer r
 
 Finally, uncontrollable factors can also influence temperature levels in indoor environments. Heavy lighting and prolonged cooking may fluctuate temperature levels although they are not directly related to temperature devices. The space needs to adjust itself against these changes caused by uncontrollable factors.
 
-Below is a demonstration of temperature (implemented in Unity Game Engine) to understand how requests regarding temperature can be realized in smart space in terms of the Spatial Characteristic Model-
-https://youtu.be/Iss6uIpqupM
 
 
