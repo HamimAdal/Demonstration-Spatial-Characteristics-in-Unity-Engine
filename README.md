@@ -1,4 +1,4 @@
-# Demonstration of The Spatial Characteristics Model
+# Demonstration of The Spatial Characteristics Model.
 
 **Working Environment**
 
