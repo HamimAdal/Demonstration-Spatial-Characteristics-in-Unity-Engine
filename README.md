@@ -17,7 +17,7 @@ Figure 1 provides a visual representation of how the user pursues a request for 
     <td>Figure 1: Visualization of spatial characteristics model exercising illumination.</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/HamimAdal/Spatial-Characteristics/blob/main/Figures/context.jpg" width=800 height=400></td>
+    <td><img src="https://github.com/HamimAdal/Demonstration-Spatial-Characteristics-in-Unity-Engine/blob/main/Figure_demo/illumiantion.png" width=800 height=400></td>
   </tr>
 </table>
 
