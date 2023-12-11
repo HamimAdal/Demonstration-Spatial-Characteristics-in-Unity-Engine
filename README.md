@@ -35,5 +35,7 @@ Time plays a crucial role in the dynamics of temperature. The thermal transfer r
 
 Finally, uncontrollable factors can also influence temperature levels in indoor environments. Heavy lighting and prolonged cooking may fluctuate temperature levels although they are not directly related to temperature devices. The space needs to adjust itself against these changes caused by uncontrollable factors.
 
+Below is the link showing how temperature is realized in smart space in terms of the Spatial Characteristic Model-
 https://youtu.be/Iss6uIpqupM
+
 
