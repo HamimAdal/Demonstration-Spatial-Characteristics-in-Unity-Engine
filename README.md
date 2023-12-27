@@ -1,4 +1,4 @@
-# Demonstration of the Spatial Characteristics Model.
+# Demonstration of the Spatial Characteristics Model (User-Experience Visualization).
 
 **Working Environment.**
 
