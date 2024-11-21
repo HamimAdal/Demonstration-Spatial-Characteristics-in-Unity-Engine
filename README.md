@@ -35,7 +35,7 @@ While the options of heuristics, and search strategies the algorithms might expl
 
 # Temperature.  
 
-https://youtu.be/Iss6uIpqupM
+https://youtu.be/Iss6uIpqupM (Temperature demonstration in UNITY)
 
 Above link is a demonstration of temperature (implemented in Unity Game Engine) to understand how requests regarding temperature can be realized in smart space in terms of the Spatial Characteristic Model.
 
